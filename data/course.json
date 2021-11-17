@@ -1,0 +1,26 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d21dcd15-0063-1405-48dc-e5c1d8a4c4cf",
+      "a2c9875b-4e0f-3295-399e-0e2fc43545b8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Doctoral Seminar in Research Methods I",
+  "course_description": "This course is designed to lay the foundations of good empirical research in the social sciences.\u00a0It does not deal with specific techniques per se, but rather with the assumptions and the logic underlying social research. Students become acquainted with a variety of approaches to research design, and are helped to develop their own research projects and to evaluate the products of empirical research.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.347",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
